@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerParametersExplorer", "ComputerParametersExplorer\ComputerParametersExplorer.csproj", "{C4E5B203-F20D-43EF-9EFA-61F2470973C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerParametersExplorer.WinForms", "ComputerParametersExplorer.WinForms\ComputerParametersExplorer.WinForms.csproj", "{F1A039A2-7D81-435A-A3F0-094D2B407211}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C4E5B203-F20D-43EF-9EFA-61F2470973C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4E5B203-F20D-43EF-9EFA-61F2470973C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4E5B203-F20D-43EF-9EFA-61F2470973C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A039A2-7D81-435A-A3F0-094D2B407211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A039A2-7D81-435A-A3F0-094D2B407211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A039A2-7D81-435A-A3F0-094D2B407211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A039A2-7D81-435A-A3F0-094D2B407211}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
